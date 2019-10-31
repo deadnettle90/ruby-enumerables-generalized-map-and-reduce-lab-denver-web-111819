@@ -17,7 +17,7 @@ def reduce(array, value=nil)
     i = 1
 end
 while i < array.length do
-  
+  yield(num1[i])
 end
 
 end
