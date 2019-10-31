@@ -13,5 +13,5 @@ def reduce(array, value=nil)
   if value 
     num1 = value
     i = 0 
-  else num1 = array[]
+  else num1 = array[0]
 end
