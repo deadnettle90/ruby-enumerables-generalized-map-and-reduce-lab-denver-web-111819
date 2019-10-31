@@ -1,5 +1,5 @@
 # Your Code Here
-def map(source_array)
-  yield()
+def map(array)
+  
 end
 
