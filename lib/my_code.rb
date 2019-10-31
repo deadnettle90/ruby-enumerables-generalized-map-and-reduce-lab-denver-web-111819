@@ -9,5 +9,4 @@ def map(array)
   new
 end
 
-map()
 
