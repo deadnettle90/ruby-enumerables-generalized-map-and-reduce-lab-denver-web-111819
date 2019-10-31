@@ -11,4 +11,5 @@ end
 
 def reduce(array, value=nil)
   if value 
+    num1 = value
 end
