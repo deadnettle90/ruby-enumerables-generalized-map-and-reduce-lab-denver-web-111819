@@ -12,4 +12,6 @@ end
 def reduce(array, value=nil)
   if value 
     num1 = value
+    i = 0 
+  else 
 end
